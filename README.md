@@ -46,9 +46,10 @@ This repository includes:
 - TSPC logic for Divider circuits
 - Cadance Virtuoso
 
-## 📷 Screenshots (optional if adding images)
-
-*(You can include PNG snapshots of block diagrams or waveforms here)*
+## 📷 Screenshots (Images of work)
+Complete PLL(Schematic)
+![image alt](https://github.com/Anurag25021/PLL_USING_CADANCE_VIRTUOSO/blob/8573a9ab92158237f982ead9457d21be36e167ba/CompletePLL.png)
+Complete PLL(ADC Output Waveform)
 
 ## 📜 License
 
